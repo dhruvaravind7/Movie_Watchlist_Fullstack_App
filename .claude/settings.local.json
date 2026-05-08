@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /home/dhruvaravind/movie-night-planner/backend/*.py)"
+    ]
+  }
+}
